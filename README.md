@@ -29,3 +29,14 @@
 ![OpenStack](https://img.shields.io/badge/OpenStack-BD00FF?style=for-the-badge&logo=openstack&logoColor=white)
 
 <!-- ──────────────────────────── -->
+## 📈 GitHub Stats
+
+![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevenhaesler&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhaesler&layout=compact&theme=transparent)
+
+## 🌌 Beyond the Code
+
+| Interest | Badge |
+| -------- | ----- |
+| Astrophotography | ![Stars](https://img.shields.io/badge/🌠-Chasing%20dark%20skies-0B3D91?style=for-the-badge) |
+| Science Education | ![Education](https://img.shields.io/badge/📚-Sharing%20knowledge-4C1?style=for-the-badge) |
