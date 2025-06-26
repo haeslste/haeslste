@@ -40,3 +40,20 @@
 | -------- | ----- |
 | Astrophotography | ![Stars](https://img.shields.io/badge/🌠-Chasing%20dark%20skies-0B3D91?style=for-the-badge) |
 | Science Education | ![Education](https://img.shields.io/badge/📚-Sharing%20knowledge-4C1?style=for-the-badge) |
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/steven-häsler-11709a11a/)
+
+<!--
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://stevenhaesler.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stevenhaesler?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stevenhaesler)
+[![GitHub Followers](https://img.shields.io/github/followers/stevenhaesler?label=Follow&style=for-the-badge&logo=github)](https://github.com/stevenhaesler)
+
+-->
+
+<!-- Optional visitor counter (requires enabling the service first)
+![Visitor Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=haeslste.haeslste&style=for-the-badge)
+-->
