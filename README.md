@@ -31,8 +31,8 @@
 <!-- ──────────────────────────── -->
 ## 📈 GitHub Stats
 
-![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevenhaesler&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenhaesler&layout=compact&theme=transparent)
+![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haeslste&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeslste&layout=compact&theme=transparent)
 
 ## 🌌 Beyond the Code
 
