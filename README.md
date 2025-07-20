@@ -1,7 +1,11 @@
 # 👋 Hi, I'm **Steven**
 
-🌌 **Software engineer** by trade — **astrophotographer** by passion  
+🌌 **Software engineer** by trade — **Astrophotographer/Astronomoer** by passion  
 📍 Switzerland
+
+Currently, I'm working at ZHAW University of Applied Sciences as a Research Associate. 
+Mostly, I'm working on Computer Vision / AR applications and prototypes for Industry partners. 
+
 
 <!-- ──────────────────────────── -->
 ## 🛠 Languages & Tools
